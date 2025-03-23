@@ -24,3 +24,8 @@
 https://www.linkedin.com/in/emrah-%C3%A7ak%C4%B1r-052b422a1/
 
 Demo: 
+https://translator-ec4.netlify.app/
+
+Ekran görüntüsü
+
+![Image](https://github.com/user-attachments/assets/38805ab6-1edd-4545-bee6-31f1f6be2db7)
