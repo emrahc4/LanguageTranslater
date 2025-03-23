@@ -23,7 +23,7 @@
 📢 İletişim
 https://www.linkedin.com/in/emrah-%C3%A7ak%C4%B1r-052b422a1/
 
-Demo: 
+Canlı Demo: 
 https://translator-ec4.netlify.app/
 
 Ekran görüntüsü
